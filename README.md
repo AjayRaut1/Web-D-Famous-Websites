@@ -10,6 +10,8 @@ Web Developer(at least the ones which I am usgin)<br>
 5)markusvogl.com (show box model)<br>
 6)pesticide.io (shows outline of everthing)<br>
 7)colorhunt (to chooose color)<br>
-8)codepen.io (write and text all html , css ,js code directly)<br>
-9)https://www.frontendmentor.io/<br>
-10)https://cssbuttoncreator.com/<br>
+8)cssfontstack.com(choose font family)<br>
+9)google fonts<br>
+10)lorem-ipsum.perbang.dk<br>
+11)flaticon
+12)giphy
