@@ -13,5 +13,7 @@ Web Developer(at least the ones which I am usgin)<br>
 8)cssfontstack.com(choose font family)<br>
 9)google fonts<br>
 10)lorem-ipsum.perbang.dk<br>
-11)flaticon
-12)giphy
+11)flaticon<br>
+12)giphy<br>
+13)Airtable<br>
+14)codeply (just like codepen but allows us to use frameworks like bootstrap)<br>
