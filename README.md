@@ -17,9 +17,11 @@ Web Developer(at least the ones which I am usgin)<br>
 12)giphy<br>
 13)Airtable<br>
 14)codeply (just like codepen but allows us to use frameworks like bootstrap)<br>
-15)ui-patters (to take insiration for wireframing)
-16)awwwards.com (to see desgin and layout of others websites)
-17)dribble.com (create own sketched wireframing & planning layouts and lots and lots (Baap webstie) )
-18)photshop / Illustrator (to create a mock up of our webstie)
-19)sneakpeekit.com (for printing wireframe)
-20)balsamiq.cloud  + https://imgdownloader.com/ (industry standard for creating wireframing imgdownloader is for downloading the wireframe without sharing the link)
+15)ui-patters (to take insiration for wireframing)<br>
+16)awwwards.com (to see desgin and layout of others websites)<br>
+17)dribble.com (create own sketched wireframing & planning layouts and lots and lots (Baap webstie) )<br>
+18)photshop / Illustrator (to create a mock up of our webstie)<br>
+19)sneakpeekit.com (for printing wireframe)<br>
+20)balsamiq.cloud  + https://imgdownloader.com/ (industry standard for creating wireframing imgdownloader is for downloading the wireframe without sharing the link)<br>
+21)https://fontawesome.com/ (get free icons include this starter line in head (check get started section) ) 
+  <!--  <script src="https://kit.fontawesome.com/777e93ad5d.js" crossorigin="anonymous"></script> --><br>
