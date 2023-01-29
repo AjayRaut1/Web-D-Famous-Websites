@@ -27,3 +27,4 @@ Web Developer(at least the ones which I am usgin)<br>
 22)https://bootsnipp.com/ (bootstrap user snippets)<br>
 23)https://ejs.co/(Main page) OR https://github.com/mde/ejs/wiki/Using-EJS-with-Express (for templating {cause we require to send multiple html pages for different request [and same page can be used with some modification]} )<br>
 24)https://www.w3schools.com/cssref/css_selectors.php (css selectors )<br>
+25)https://expressjs.com/en/guide/routing.html (no need to create seprate app.get() methods different web pages)<br>
