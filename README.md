@@ -29,4 +29,8 @@ Web Developer(at least the ones which I am usgin)<br>
 24)https://www.w3schools.com/cssref/css_selectors.php (css selectors )<br>
 25)https://expressjs.com/en/guide/routing.html (no need to create seprate app.get() methods different w)eb pages)<br>
 26)https://lodash.com/(JavaScript utility library for solving URL path casing issues(lowercase,uppercase,kebabcase,snakecase, - , _ ) working with arrays, numbers, objects, strings, etc. Lodash’s modular methods are great for: 1. Iterating arrays, objects, & strings 2. Manipulating & testing values  3. Creating composite functions <br>
-27)https://expressjs.com/en/guide/routing.html (nice documentation about how an application’s endpoints (URIs) respond to client requests)
+27)https://expressjs.com/en/guide/routing.html (nice documentation about how an application’s endpoints (URIs) respond to client requests)<br>
+28)Free Deployment <br>
+  a)https://render.com/ <br>
+  b)https://www.cyclic.sh/ <br>
+  c)https://railway.app/ <br>
