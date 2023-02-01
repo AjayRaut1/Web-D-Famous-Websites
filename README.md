@@ -34,5 +34,5 @@ Web Developer(at least the ones which I am usgin)<br>
   a)https://render.com/ <br>
   b)https://www.cyclic.sh/ <br>
   c)https://railway.app/ <br>
-29)https://mongoosejs.com/docs/api/model.html(instead of using native mongodb driver use mongoose(just like jQuery shortens JS))<br>
-
+29) 1. https://mongoosejs.com/docs/api/model.html(instead of using native mongodb driver use mongoose(just like jQuery shortens JS))<br>
+    2.https://mongoosejs.com/docs/validation.html(for data entry validation (it doesn't allow invalid entry and keeps our DB clean))
