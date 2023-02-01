@@ -35,4 +35,8 @@ Web Developer(at least the ones which I am usgin)<br>
   b)https://www.cyclic.sh/ <br>
   c)https://railway.app/ <br>
 29) 1. https://mongoosejs.com/docs/api/model.html(instead of using native mongodb driver use mongoose(just like jQuery shortens JS))<br>
-    2.https://mongoosejs.com/docs/validation.html(for data entry validation (it doesn't allow invalid entry and keeps our DB clean))
+    2.(Create) https://mongoosejs.com/docs/api.html#model_Model-insertMany<br>
+    3.(Read) https://mongoosejs.com/docs/api.html#query_Query-read
+    4.(Validate) https://mongoosejs.com/docs/validation.html(for data entry validation (it doesn't allow invalid entry and keeps our DB clean))<br>
+    5.(Update) (https://mongoosejs.com/docs/api.html#model_Model-updateOne) 
+    6.(Delete) (https://mongoosejs.com/docs/api.html#query_Query-deleteOne)
